@@ -1,2 +1,2 @@
 # Covid19-tracker
-Created with CodeSandbox
+Material UI, Hooks, Chart js, Axios, APIs 
